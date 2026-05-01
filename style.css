@@ -124,10 +124,6 @@ strong {
   font-weight: 600;
 }
 
-.hero-section {
-  margin-bottom: 10px;
-}
-
 .hero {
   display: flex;
   align-items: center;
