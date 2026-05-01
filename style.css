@@ -134,11 +134,15 @@ strong {
 /* ====================================
    HERO SECTION
    ======================================*/
+.hero-section {
+  margin-bottom: 0px;
+}
+
 .hero {
   display: flex;
   align-items: center;
   gap: 48px;
-  margin-bottom: 16px;
+  margin-bottom: 0px;
 }
 
 .hero-text {
