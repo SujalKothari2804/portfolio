@@ -1,10 +1,3 @@
-/* ====================================
-   DESIGN SYSTEM — Notion-Styled Portfolio
-   ======================================
-   Fonts: Playfair Display (headings) + DM Sans (body)
-   Palette: #1a1a1a (text), #ffffff (bg), #f7f6f3 (surface),
-            #e8e5e0 (border), #c8a55a (accent — warm amber)
-   ======================================*/
 
 /* ----- Reset & Base ----- */
 *, *::before, *::after {
@@ -131,9 +124,6 @@ strong {
   font-weight: 600;
 }
 
-/* ====================================
-   HERO SECTION
-   ======================================*/
 .hero-section {
   margin-bottom: 0px;
 }
@@ -357,9 +347,6 @@ strong {
   border-left-color: var(--color-border);
 }
 
-/* ====================================
-   SCREENSHOT GRID
-   ======================================*/
 .screenshot-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
